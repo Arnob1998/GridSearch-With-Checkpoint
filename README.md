@@ -5,3 +5,10 @@ Similar to GridSearchCV but saves logs. No problem if the program is interrupted
 Only Works with scikit-learn
 
 Sample output and dataset is provided
+
+
+TODO-
+
+* delete the iterated hyperparameters\n
+* write to csv with columns- parameter, accuracy , error\n
+* find the best params from that csv by highest accuracy
