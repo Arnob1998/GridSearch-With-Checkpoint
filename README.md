@@ -9,6 +9,6 @@ Sample output and dataset is provided
 
 TODO-
 
-* delete the iterated hyperparameters\n
-* write to csv with columns- parameter, accuracy , error\n
+* delete the iterated hyperparameters
+* write to csv with columns- parameter, accuracy , error
 * find the best params from that csv by highest accuracy
