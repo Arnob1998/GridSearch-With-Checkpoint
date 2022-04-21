@@ -1,0 +1,5 @@
+Hyperparameters - {'gamma': 1, 'kernel': 'sigmoid'}
+Train Accuracy: 0.6499068901303539 | Test Accuracy: 0.6536796536796536
+Train Loss: 0.6475158662194473 | Test Loss: 0.6452200115486163
+	------------------------------------
+Hyperparameters - {'gamma': 1, 'kernel': 'linear'}
