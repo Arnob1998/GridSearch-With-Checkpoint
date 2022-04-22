@@ -10,5 +10,4 @@ Sample output and dataset is provided
 TODO-
 
 * delete the iterated hyperparameters
-* write to csv with columns- parameter, accuracy , error
-* find the best params from that csv by highest accuracy
+* optimize- give train test later dont store in class use directly
